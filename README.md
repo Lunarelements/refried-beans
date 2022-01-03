@@ -1,6 +1,6 @@
-# RefriedBeans
+# Refried Beans
 
-A script that opens up various MBeans and then allows you to save the HTML output when done. It was created to automate a task at one of my jobs
+A Python script that opens up various MBeans and then allows you to save the HTML output when done. It was created to automate a performance testing task at one of my previous co-op positions
 
 ## Getting Started
 
@@ -52,7 +52,3 @@ When finished type "y" into the program and it will save the html for each MBean
 Collect MBeans? (y/n)
 y
 ```
-
-## Authors
-
-* **Bradley Leonard**
