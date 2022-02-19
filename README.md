@@ -1,5 +1,7 @@
 # Refried Beans
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
 A Python script that opens up various MBeans and then allows you to save the HTML output when done. It was created to automate a performance testing task at one of my previous co-op positions
 
 ## Getting Started
